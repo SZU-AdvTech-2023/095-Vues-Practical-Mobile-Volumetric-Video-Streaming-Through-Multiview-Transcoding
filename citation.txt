@@ -1,0 +1,7 @@
+@inproceedings{REPO095,
+    author = "Liu, Yu and Han, Bo and Qian, Feng and Narayanan, Arvind and Zhang, Zhi-Li",
+    booktitle = "Proceedings of the 28th Annual International Conference on Mobile Computing And Networking",
+    pages = "514--527",
+    title = "{Vues: Practical Mobile Volumetric Video Streaming Through Multiview Transcoding}",
+    year = "2022"
+}
